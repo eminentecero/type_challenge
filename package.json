@@ -1,0 +1,22 @@
+{
+  "name": "usersswim",
+  "version": "1.0.0",
+  "description": "노마드코더에서 진행하는 타입스크립트 챌린지",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eminentecero/type_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eminentecero/type_challenge/issues"
+  },
+  "homepage": "https://github.com/eminentecero/type_challenge#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
